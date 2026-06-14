@@ -45,7 +45,7 @@ The analysis was designed to answer the following questions:
 
 View the Google Sheets project here:
 
-[[Google Sheets link here]](https://docs.google.com/spreadsheets/d/1cdnufDnWniVVIliAL-THreM3ugtYAr4K/edit?usp=sharing&ouid=102886842852553523440&rtpof=true&sd=true)
+[[Open Google Sheets dashboard]](https://docs.google.com/spreadsheets/d/1cdnufDnWniVVIliAL-THreM3ugtYAr4K/edit?usp=sharing&ouid=102886842852553523440&rtpof=true&sd=true)
 
 ## Dashboard Preview
 
